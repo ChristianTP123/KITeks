@@ -92,7 +92,7 @@ console.log(zxcvbn("hej"))
         </div>
         <div className=''>
           <div className='col-span-1'>
-            <div className=' absolute left-5 top-20 bg-primary bottom-2 h-[600px] w-0.5 z-10'></div>
+            <div className=' absolute left-5 top-20 bg-primary bottom-2 h-[1600px] w-0.5 z-10'></div>
             <div className='absolute left-[15px] top-[70px] border rounded-full border-primary p-1 border-2 z-0'></div>
             <img className='absolute left-[3px] top-[450px] w-9' src="/mus.png"/>
             <img className='absolute left-[-15px] top-[475px] w-20' src="/scroll.png"/>
