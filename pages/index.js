@@ -155,11 +155,13 @@ Brug en kombination af store og små bogstaver, tal og specialtegn. Jo mere fors
 
 Brug ikke personlige oplysninger i dit kodeord. Undgå at bruge navne på familiemedlemmer eller kæledyr.</p>
           </div>
-          <div className=' text-primary absolute bottom-[-130%] left-6'>
+          <div className=' text-primary absolute bottom-[-100%] left-6'>
             <a href="#top">Gå tilbage til toppen</a>
           </div>
+          <div classname="grid grid-cols-2 gap-1">
            <img className='inline-block' src="/logo.png" width="40%"/>
-           <img className='inline-block ml-5' src="/cyberskills.png" width="40%"/>
+           <img className='inline-block' src="/cyberskills.png" width="40%"/>
+          </div>
           
 
         </div>
