@@ -158,7 +158,7 @@ Brug ikke personlige oplysninger i dit kodeord. Undgå at bruge navne på famili
           <div className=' text-primary absolute bottom-[-100%] left-6'>
             <a href="#top">Gå tilbage til toppen</a>
           </div>
-          <div classname="grid grid-cols-2 gap-1">
+          <div classname="grid grid-cols-2 gap-1 bottom-[-110%]">
            <img className='inline-block' src="/logo.png" width="40%"/>
            <img className='inline-block' src="/cyberskills.png" width="40%"/>
           </div>
