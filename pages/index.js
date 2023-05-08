@@ -153,7 +153,7 @@ console.log(zxcvbn("hej"))
 
 Brug en kombination af store og små bogstaver, tal og symboler. Jo flere forskellige du bruger, jo sværere er det for hackere at gætte det.
 
-Brug ikke personlige oplysninger i dit kodeord. Undgå at bruge navne på familiemedlemmer eller kæledyr. Du kan bruge disse tips til at teste nye kodeord i tjekkeren højere oppe>
+Brug ikke personlige oplysninger i dit kodeord. Undgå at bruge navne på familiemedlemmer eller kæledyr. Du kan bruge disse tips til at teste nye kodeord i tjekkeren højere oppe</p>
           </div>
           <br></br>
           <br></br>
