@@ -142,7 +142,7 @@ console.log(zxcvbn("hej"))
           <br></br>
           <div id="hacking" className='bg-gray-900 text-white'>
             <h1 className='text-3xl ml-10 mb-5 mt-2'>Hvordan fungerer denne hjemmeside</h1>
-            <p className='ml-10 mb-2'>Denne adganskode tjekker er inspireret af adgangskode-krakkere. Ved hjælp af mønstergenkendelse, genkender og vejer den 30.000 almindelige adgangskoder, almindelige navne og efternavne ifølge US Census-data, populære engelske ord fra Wikipedia og amerikanske tv- og filmproduktioner samt andre almindelige mønstre som datoer, gentagelser (aaa), sekvenser (abcd), tastaturmønstre (qwertyuiop) og l33t speak.</p>
+            <p className='ml-10 mb-2'>Denne adganskode tjekker er inspireret af adgangskode-krakkere. Ved hjælp af mønstergenkendelse, genkender og vejer den 30.000 almindelige adgangskoder, almindelige navne og efternavne i USA populære engelske ord fra Wikipedia og amerikanske tv- og filmserier samt andre almindelige mønstre som datoer, gentagelser (aaa), sekvenser (abcd), tastaturmønstre (qwertyuiop) og l33t speak.</p>
           </div>
           <br></br>
           <br></br>
@@ -151,9 +151,9 @@ console.log(zxcvbn("hej"))
             <h1 className='text-3xl ml-10 mb-5 mt-2'>Sådan gør du dit kodeord bedre</h1>
             <p className='ml-10 mb-2'>At have et sikkert og stærkt kodeord er en af de vigtigste ting, man kan gøre for at beskytte sin online sikkerhed. Her er nogle tips til, hvordan man kan gøre sit kodeord bedre:
 
-Brug en kombination af store og små bogstaver, tal og specialtegn. Jo mere forskelligartet dit kodeord er, jo sværere er det for hackere at gætte det.
+Brug en kombination af store og små bogstaver, tal og symboler. Jo flere forskellige du bruger, jo sværere er det for hackere at gætte det.
 
-Brug ikke personlige oplysninger i dit kodeord. Undgå at bruge navne på familiemedlemmer eller kæledyr.</p>
+Brug ikke personlige oplysninger i dit kodeord. Undgå at bruge navne på familiemedlemmer eller kæledyr. Du kan bruge disse tips til at teste nye kodeord i tjekkeren højere oppe>
           </div>
           <br></br>
           <br></br>
