@@ -157,8 +157,8 @@ Brug ikke personlige oplysninger i dit kodeord. Undgå at bruge navne på famili
           </div>
           <div className=' text-primary absolute bottom-[-130%] left-6'>
             <a href="#top">Gå tilbage til toppen</a>
-            <img src="/logo.png" width="40%"/>
-            <img src="/cyberskills.png" width="40%"/>
+            <img className='inline-block' src="/logo.png" width="40%"/>
+            <img className='inline-block ml-5' src="/cyberskills.png" width="40%"/>
           </div>
 
         </div>
