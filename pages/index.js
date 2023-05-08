@@ -81,7 +81,7 @@ console.log(zxcvbn("hej"))
       <Head>
         <title>Adgangskode tjekkeren</title>
         <meta name="description" content="very good" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/logo1.png" />
       </Head>
       <div id="top" className='grid h-fit  gap-1'>
         <div className="grid grid-cols-3 gap-2">
@@ -157,7 +157,8 @@ Brug ikke personlige oplysninger i dit kodeord. Undgå at bruge navne på famili
           </div>
           <div className=' text-primary absolute bottom-[-130%] left-6'>
             <a href="#top">Gå tilbage til toppen</a>
-            
+            <img src="/logo.png" width="40%"/>
+            <img src="/cyberskills.png" width="40%"/>
           </div>
 
         </div>
