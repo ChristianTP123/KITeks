@@ -113,7 +113,7 @@ console.log(zxcvbn("hej"))
               
               <p className='col-span-2 text-sm ml-4 '>Vis kodeord</p>
               <label>
-              <input type="checkbox" class="form-checkbox h-[100%] w-[100%] text-primary bg-main transition duration-150 ease-in-out mr-2 mb-2" onClick={() => setShowPassword(!showPassword)}/>
+              <input type="checkbox" class="form-checkbox h-[75%] w-[75%] text-primary bg-main transition duration-150 ease-in-out mr-4 mb-2" onClick={() => setShowPassword(!showPassword)}/>
               </label>
             </div>
           </div>
