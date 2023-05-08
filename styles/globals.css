@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  background-color: #191A19;
+  font-family: Konkhmer Sleokchher;
+}
+
+.ekstra {
+  
+    font-family: 'Space Mono', monospace;
+
+}
+
+
+
